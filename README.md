@@ -15,6 +15,7 @@ The gene content of modern eukaryotic genomes has been shaped by evolutionary pr
 
 4. **README.md**: This file provides an overview of the supplementary materials and instructions for accessing and using the contents of this repository.
 
+5. **Raw data**: 10.6084/m9.figshare.25382860
 
 For inquiries, feedback, or collaboration opportunities, please contact Laura van Rooijen at lauraelsevanrooijen@gmail.com.
 
